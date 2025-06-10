@@ -1,0 +1,6 @@
+@Taxi.Server_HostAddress = http://localhost:5195
+
+GET {{Taxi.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
